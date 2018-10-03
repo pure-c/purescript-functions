@@ -1,0 +1,26 @@
+#ifndef Data_Function_Uncurried_H
+#define Data_Function_Uncurried_H
+
+#include <purescript.h>
+
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn0);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn2);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn3);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn4);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn5);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn6);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn7);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn8);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn9);
+PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn10);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn2);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn3);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn4);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn5);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn6);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn7);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn8);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn9);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn10);
+
+#endif // Data_Function_Uncurried_H
