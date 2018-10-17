@@ -13,6 +13,7 @@ PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn7);
 PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn8);
 PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn9);
 PURS_FFI_EXPORT(Data_Function_Uncurried_mkFn10);
+PURS_FFI_EXPORT(Data_Function_Uncurried_runFn0);
 PURS_FFI_EXPORT(Data_Function_Uncurried_runFn2);
 PURS_FFI_EXPORT(Data_Function_Uncurried_runFn3);
 PURS_FFI_EXPORT(Data_Function_Uncurried_runFn4);

@@ -181,6 +181,10 @@ PURS_FFI_FUNC_1(Data_Function_Uncurried_mkFn10, fn, {
 	return purs_any_cont_new(fn, _fun_10);
 });
 
+PURS_FFI_FUNC_1(Data_Function_Uncurried_runFn0, fn, {
+	return purs_any_app(fn, NULL);
+});
+
 PURS_FFI_FUNC_3(Data_Function_Uncurried_runFn2, fn, a, b, {
 	return purs_any_app(fn, a, b);
 });
