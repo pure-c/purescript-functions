@@ -1,0 +1,8 @@
+{
+  "name": "purescript-functions",
+  "set": "master",
+  "source": "git@github.com:pure-c/package-sets",
+  "depends": [
+    "prelude"
+  ]
+}
